@@ -32,7 +32,7 @@ const App = () => {
   return (
     <div className="App">
       <header className="App-header">
-        <h2>Conversas Futuristas</h2>
+        <h2>FutureTalks</h2>
         <SignOut />
       </header>
       <section>
